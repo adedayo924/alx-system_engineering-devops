@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la 0-current_working_directory 2-bring_me_home Desktop Downloads Library Music Public 1-listit 3-listfiles Applications Documents Dropbox Movies Pictures README.md 
+ls -l /root/alx-system_engineering-devops/0x00-shell_basics 
